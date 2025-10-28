@@ -36,24 +36,27 @@ showing how many models each brand has launched, the range of RAM configurations
 
 ---
 
-### **2. Feature vs Price Dashboard**  
+### **2.  Price Analysis Dashboard**  
+This dashboard compares the **average launch prices** across brands and models.  
+You can filter by company or launch year to see how pricing evolved.  
+
+**Finding:** Apple and Huawei remain consistent at the top (~₹1.03L average), while brands like Samsung, Xiaomi, and Oppo sit comfortably in the mid-range zone (₹60K–₹70K).  
+
+<img width="1313" height="741" alt="Screenshot 2025-10-28 114718" src="https://github.com/user-attachments/assets/7d92881e-daf9-4f81-bd20-0adb5ed3ddc0" />
+
+
+
+---
+
+### **3. Feature vs Price Dashboard**  
 Here’s where the story gets interesting.  
 This page connects **hardware features to their price points**, letting you filter by RAM, camera, or processor and instantly see the pricing impact.  
 It also converts prices across **INR, USD, PKR, CNY, and AED**, showing how global markets react to similar features differently.  
 
 **Insight:** Devices with 8GB–16GB RAM see a massive jump in price, especially among Apple and Huawei models — a clear indicator of how performance sells.  
 
-![Feature vs Price Dashboard](images/feature_vs_price.png)
+<img width="1311" height="739" alt="Screenshot 2025-10-28 114728" src="https://github.com/user-attachments/assets/40194f12-005f-4979-bdfa-67ebb823e7b1" />
 
----
-
-### **3. Price Analysis Dashboard**  
-This dashboard compares the **average launch prices** across brands and models.  
-You can filter by company or launch year to see how pricing evolved.  
-
-**Finding:** Apple and Huawei remain consistent at the top (~₹1.03L average), while brands like Samsung, Xiaomi, and Oppo sit comfortably in the mid-range zone (₹60K–₹70K).  
-
-![Price Analysis Dashboard](images/price_analysis.png)
 
 ---
 
