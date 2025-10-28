@@ -99,5 +99,3 @@ The dashboard helps:
 
 ---
 
-## 📂 Project Structure  
-
