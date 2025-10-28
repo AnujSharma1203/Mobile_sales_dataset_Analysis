@@ -31,7 +31,8 @@ showing how many models each brand has launched, the range of RAM configurations
 
 **Observation:** Oppo and Apple dominate in model count and brand presence, but follow completely different market strategies — volume vs. value.  
 
-![Overview Dashboard](images/overview_dashboard.png)
+<img width="1319" height="741" alt="Screenshot 2025-10-28 114632" src="https://github.com/user-attachments/assets/fdceede2-b535-4ba7-9b7d-954e4ec65e62" />
+
 
 ---
 
